@@ -1,5 +1,5 @@
 transformers
-transformers[senPyYAMLtencepiece]
+transformers[sentencepiece]
 datasets    
 sacrebleu
 rouge_score
